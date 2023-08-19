@@ -14,11 +14,11 @@ The objects are creted means they are very east to call and print in the javascr
 	for example:
 
 	function job()={
-		name=vishnu;
-		id=23443;
+		name=Arul;
+		id=805692;
 		sex=male;
-		job=ceo;
-		salary=100lpa;
+		job=Trainy;
+		salary=3lpa;
 		}
 	
 for printing the objects
